@@ -1,20 +1,31 @@
 import React from "react";
-import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+import {
+  Route,
+  BrowserRouter as Router,
+  Switch,
+  NavLink as Link,
+} from "react-router-dom";
 import "./App.css";
 import Home from "./Components/Home";
 import About from "./Components/About";
+import Footer from "./Components/Footer"
 
-function App() {
+const App = () => {
   return (
     <Router>
-      <Switch>
-        <div className="container">
-          <p> Let's add routing! </p>
+      <div className="App">
 
+        <Switch>
+
+        
           <Route path="/" exact component={Home} />
           <Route path="/about" component={About} />
-        </div>
-      </Switch>
+          <Route render={() => <div>404 Not Found</div>} />
+        
+        </Switch>
+      </div>
+
+      <Footer />
     </Router>
   );
 }
