@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  padding: 30px;
+  padding: 20px;
 }
 
 .App-logo {
@@ -19,4 +19,17 @@
   text-align: center;
   font-size: 11px;
   padding: 30px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  flex-direction: horizontal;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.navbar li {
+  margin: 20px;
 }
