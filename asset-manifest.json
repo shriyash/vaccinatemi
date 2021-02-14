@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.aed07e5d.chunk.css",
-    "main.js": "/static/js/main.7dc5d892.chunk.js",
-    "main.js.map": "/static/js/main.7dc5d892.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5522ab84.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5522ab84.js.map",
-    "static/js/2.ef2ff024.chunk.js": "/static/js/2.ef2ff024.chunk.js",
-    "static/js/2.ef2ff024.chunk.js.map": "/static/js/2.ef2ff024.chunk.js.map",
-    "static/js/3.3a5973c7.chunk.js": "/static/js/3.3a5973c7.chunk.js",
-    "static/js/3.3a5973c7.chunk.js.map": "/static/js/3.3a5973c7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.aed07e5d.chunk.css.map": "/static/css/main.aed07e5d.chunk.css.map",
-    "static/js/2.ef2ff024.chunk.js.LICENSE.txt": "/static/js/2.ef2ff024.chunk.js.LICENSE.txt"
+    "main.css": "/vaccinatemi/static/css/main.aed07e5d.chunk.css",
+    "main.js": "/vaccinatemi/static/js/main.7dc5d892.chunk.js",
+    "main.js.map": "/vaccinatemi/static/js/main.7dc5d892.chunk.js.map",
+    "runtime-main.js": "/vaccinatemi/static/js/runtime-main.86637422.js",
+    "runtime-main.js.map": "/vaccinatemi/static/js/runtime-main.86637422.js.map",
+    "static/js/2.ef2ff024.chunk.js": "/vaccinatemi/static/js/2.ef2ff024.chunk.js",
+    "static/js/2.ef2ff024.chunk.js.map": "/vaccinatemi/static/js/2.ef2ff024.chunk.js.map",
+    "static/js/3.3a5973c7.chunk.js": "/vaccinatemi/static/js/3.3a5973c7.chunk.js",
+    "static/js/3.3a5973c7.chunk.js.map": "/vaccinatemi/static/js/3.3a5973c7.chunk.js.map",
+    "index.html": "/vaccinatemi/index.html",
+    "static/css/main.aed07e5d.chunk.css.map": "/vaccinatemi/static/css/main.aed07e5d.chunk.css.map",
+    "static/js/2.ef2ff024.chunk.js.LICENSE.txt": "/vaccinatemi/static/js/2.ef2ff024.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5522ab84.js",
+    "static/js/runtime-main.86637422.js",
     "static/js/2.ef2ff024.chunk.js",
     "static/css/main.aed07e5d.chunk.css",
     "static/js/main.7dc5d892.chunk.js"
