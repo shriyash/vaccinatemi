@@ -3,7 +3,6 @@ import {
   Route,
   BrowserRouter as Router,
   Switch,
-  NavLink as Link,
 } from "react-router-dom";
 import "./App.css";
 
@@ -16,7 +15,7 @@ const App = () => {
   return (
     <Router>
       <Header />
-      
+
       <div className="App">
         <Switch>
           <Route path="/" exact component={Home} />
